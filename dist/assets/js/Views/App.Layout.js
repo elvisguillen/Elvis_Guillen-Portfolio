@@ -1,0 +1,1 @@
+define(["jquery","backbone","underscore","marionette","transit","App","Views/App.Views","Controller/App.Controller"],function(e,t,n,r,i){return AppLayout=t.Marionette.Layout.extend({template:"#template-app-layout",regions:{headerRegion:{selector:"header#mainheader"},sidebarRegion:{selector:".menu"},contentRegion:{selector:".mainview"}}}),AppLayout});

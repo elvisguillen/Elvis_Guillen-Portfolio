@@ -1,0 +1,66 @@
+// Variables
+
+$font-headland: 'Headland One', serif;
+$font-armata: 'Armata', sans-serif;
+$font-noto: 'Noto Serif', serif;
+$font-crete: 'Crete Round', serif;
+$font-rokkitt: 'Rokkitt', serif;
+$font-roboto: 'Roboto Slab', serif;
+$font-pacifico: 'Pacifico', cursive;
+$font-montserrat: 'Montserrat', sans-serif;
+$font-enriqueta: 'Enriqueta', serif;
+
+.brand {
+	font-family: $font-pacifico;
+	font-size: 28px;
+	margin-top: 15px;
+}
+
+.nav-collapse a, .menu a {
+	font-family: $font-montserrat;
+	color: white;
+	font-size: 18px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+
+h1 {
+	font-family: $font-montserrat;
+	font-size: 36px;
+	color: white;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
+h2 {
+	font-family: $font-montserrat;
+	font-size: 26px;
+	color: white;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
+h4 {
+	font-family: $font-montserrat;
+	font-size: 23px;
+	color: white;
+	text-transform: uppercase;
+	padding: 10px 0px 20px 0px!important;
+	letter-spacing: 2px;
+}
+
+p {
+	font-family: $font-enriqueta;
+	color: white;
+	font-size: 19px;
+}
+
+
+
+.workitemoverlay {
+	font-family: $font-montserrat;
+	color: white;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-size: 15px;
+}

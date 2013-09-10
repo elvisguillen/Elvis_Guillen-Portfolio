@@ -1,0 +1,73 @@
+a.largebtn {
+	font-family: $font-montserrat;
+	font-size: 20px;
+	color: white;
+	text-transform: uppercase;
+	border: 1px solid white;
+	padding: 10px;
+	margin-top: 20px;
+	@include transition( all 500ms cubic-bezier(0.250, 0.100, 0.250, 1.000) );
+	
+	&:hover {
+		background-color: white;
+		color: #141414;
+		text-decoration: none;
+	}
+}
+
+.downloadbtn {
+	display: block;
+	height: 66px;
+	width: 66px;
+	margin: 0 auto;
+	font-family: $font-montserrat;
+	color: white;
+	font-size: 47px;
+	background-color: transparent;
+	border: 2px solid white;
+
+	@include border-radius(100px);
+	@include transition( all 500ms cubic-bezier(0.250, 0.100, 0.250, 1.000) );
+
+		.emailiconhover, .socialiconhover {
+			@include opacity(0);
+			@include transition( all 500ms cubic-bezier(0.250, 0.100, 0.250, 1.000) );
+		}
+
+
+
+		&:hover {
+			background-color: white!important;
+			color: black!important;
+			text-decoration: none!important;
+		}
+
+		&:hover .emailiconhover, &:hover .socialiconhover {
+			@include opacity(1);
+			@include transition( all 500ms cubic-bezier(0.250, 0.100, 0.250, 1.000) );
+		}
+
+		&:hover .emailicon, &:hover .socialicon {
+			@include opacity(0);
+			@include transition( all 500ms cubic-bezier(0.250, 0.100, 0.250, 1.000) );
+		}
+}
+
+.socialbtn {
+	@extend .downloadbtn; 
+	float: left!important;
+	margin-right: 10px;
+
+	&:last-of-type {
+		margin-right: 0px!important;
+	}
+}
+
+button.navbar-toggle {
+	margin-top: 20px;
+	border: 0px;
+	&:hover {
+		background: transparent;
+	}
+}
+

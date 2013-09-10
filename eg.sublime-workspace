@@ -1,0 +1,238 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"work",
+				"worksubpage"
+			],
+			[
+				"pag",
+				"page-work-midtown"
+			],
+			[
+				"page-",
+				"page-work-yellaterra"
+			],
+			[
+				"page-work",
+				"page-work-midtown"
+			],
+			[
+				"fourth",
+				"fourthAni"
+			],
+			[
+				"third",
+				"thirdcurrentAni"
+			],
+			[
+				"second",
+				"secondcurrentAni"
+			],
+			[
+				"page-move",
+				"page-moveFromTop"
+			],
+			[
+				"t",
+				"thirdPage"
+			],
+			[
+				"pageAbout",
+				"pageAbout"
+			],
+			[
+				"App",
+				"appRouter"
+			],
+			[
+				"header",
+				"headerView"
+			],
+			[
+				"Header",
+				"HeaderView"
+			],
+			[
+				"section",
+				"section"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/waslegit/Documents/Sites/Elvis_Guillen/assets/sass/partials/_animations.scss",
+		"/Users/waslegit/Documents/Sites/Elvis_Guillen/assets/sass/partials/_typography.scss",
+		"/Users/waslegit/Documents/Sites/Elvis_Guillen/assets/sass/screen.scss",
+		"/Users/waslegit/Documents/Sites/Elvis_Guillen/assets/sass/partials/_layout.scss",
+		"/Users/waslegit/Documents/Sites/Elvis_Guillen/index.html",
+		"/Users/waslegit/Documents/Sites/Elvis_Guillen/assets/js/Views/App.Views.js",
+		"/Users/waslegit/Documents/Sites/Elvis_Guillen/assets/js/Views/App.Layout.js",
+		"/Users/waslegit/Documents/Sites/Elvis_Guillen/assets/js/Controller/App.Controller.js",
+		"/Users/waslegit/Documents/Sites/Elvis_Guillen/assets/js/App.js",
+		"/Users/waslegit/Documents/Sites/Elvis_Guillen/assets/sass/partials/_base.scss",
+		"/Users/waslegit/Documents/Sites/Elvis_Guillen/assets/js/main.js",
+		"/Users/waslegit/Documents/Sites/Elvis_Guillen/assets/stylesheets/screen.css",
+		"/Users/waslegit/Documents/Sites/Elvis_Guillen/assets/js/example.js",
+		"/Users/waslegit/Documents/Sites/Elvis_Guillen/.htaccess",
+		"/Users/waslegit/Downloads/Marionette-Require-Boilerplate-master/public/js/app/routers/AppRouter.js",
+		"/Users/waslegit/Documents/Sites/Elvis_Guillen/assets/js/Controller/App.Router.js",
+		"/Users/waslegit/Documents/Sites/Elvis_Guillen/assets/sass/partials/_variables.scss",
+		"/Users/waslegit/Documents/Sites/Elvis_Guillen/assets/img/bg01.jpg",
+		"/Users/waslegit/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/waslegit/Documents/Sites/Elvis_Guillen/assets/js/Views/App.View.Header.js",
+		"/Users/waslegit/Downloads/Marionette-Require-Boilerplate-master/public/js/app/init/DesktopInit.js",
+		"/Users/waslegit/Downloads/Marionette-Require-Boilerplate-master/public/js/app/controllers/DesktopController.js",
+		"/Users/waslegit/Downloads/Marionette-Require-Boilerplate-master/public/js/app/App.js",
+		"/Users/waslegit/Documents/Sites/Elvis_Guillen/assets/js/lib/backbone.marionette.js",
+		"/Users/waslegit/Downloads/Marionette-Require-Boilerplate-master/public/js/app/views/DesktopHeaderView.js",
+		"/Users/waslegit/Downloads/Marionette-Require-Boilerplate-master/public/js/app/views/WelcomeView.js",
+		"/Users/waslegit/Downloads/Marionette-Require-Boilerplate-master/public/js/app/views/MobileHeaderView.js",
+		"/Users/waslegit/Documents/Sites/Elvis_Guillen/assets/app/index.html",
+		"/Users/waslegit/Documents/Sites/Elvis_Guillen/assets/js/Views/App.View.js",
+		"/Users/waslegit/Documents/Sites/Elvis_Guillen/assets/app/scripts/main.js",
+		"/Users/waslegit/Documents/Sites/Elvis_Guillen/assets/app/scripts/views/app.js",
+		"/Users/waslegit/Documents/Sites/Elvis_Guillen/assets/js/EG_Portfolio.Layout.js",
+		"/Users/waslegit/Downloads/Marionette-Require-Boilerplate-master/public/index.html",
+		"/Users/waslegit/Documents/Sites/Elvis_Guillen/assets/js/app.js",
+		"/Users/waslegit/Documents/Sites/Elvis_Guillen/assets/js/EG_Portfolio.js",
+		"/Users/waslegit/Documents/Sites/Elvis_Guillen/assets/js/EG_Portfolio.main.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"region",
+			"close"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 29.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true
+}

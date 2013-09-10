@@ -1,0 +1,1 @@
+({appDir:"../",baseUrl:"assets/js",dir:"../dist",mainConfigFile:"../assets/js/main.js",name:"main",optimizeCss:"standard.keepLines"});
