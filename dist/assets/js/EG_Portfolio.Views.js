@@ -1,1 +1,0 @@
-var FeaturedView=Backbone.Marionette.ItemView.extend({template:"#template-featured"});(new FeaturedView).render();

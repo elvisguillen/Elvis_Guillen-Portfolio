@@ -170,7 +170,7 @@ define(['jquery', 'backbone', 'underscore', 'marionette','App','Views/App.Layout
            "work/yellaterra" : "showWorkYT",
            "work/midtown" : "showWorkMT",
            "work/defeye" : "showWorkDE",
-           "work/twelve21gallery" : "showWorkTG",
+           "work/thesanfordproject" : "showWorkTG",
            "work/shredderexperts" : "showWorkSH",
            "work/fautores" : "showWorkFA",
            "about" : "showAbout",

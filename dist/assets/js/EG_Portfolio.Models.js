@@ -1,1 +1,0 @@
-var Feature=Backbone.Model.extend(),featuredHome=new Feature({featuredTitle:"Handcrafted",featuredCopy:"I’m a front-end web developer that focuses on outstanding interactive experiences that make sure your brand’s vision and identity stays consistent."});
